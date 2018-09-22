@@ -1,0 +1,2 @@
+# Linkedlist
+all about linkedlist
